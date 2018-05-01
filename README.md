@@ -2,7 +2,7 @@
 昼食用のリポジトリ
 
 ## gitHub
-[本番](https://matsuo-y.github.io/git-practice-lunch/)
+[本番](https://git-training-lunch-oka.herokuapp.com/)
 
 ## heroku
 [本番](https://git-practice-lunch.herokuapp.com/)
